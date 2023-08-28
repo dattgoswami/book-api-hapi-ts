@@ -1,0 +1,20 @@
+# Node.js related
+node_modules/
+npm-debug.log
+
+# TypeScript related
+dist/
+*.tsbuildinfo
+.tscache/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS generated
+.DS_Store
+Thumbs.db
